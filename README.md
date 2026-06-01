@@ -236,7 +236,3 @@ You can also talk with us on our JupyterHub [Gitter](https://gitter.im/jupyterhu
 
 JupyterHub follows the Jupyter [Community Guides](https://jupyter.readthedocs.io/en/latest/community/content-community.html).
 
-**[Docker](#docker)** |
-**[Contributing](#contributing)** |
-**[License](#license)** |
-**[Help and Resources](#help-and-resources)**
